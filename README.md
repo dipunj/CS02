@@ -1,2 +1,2 @@
 # CS02
-This repo contains codes for mini project for group CS02 @ MNNIT Allahabad.
+This project aims to bring improvements in accuracy of detecting a disease from chest X-ray scans.
